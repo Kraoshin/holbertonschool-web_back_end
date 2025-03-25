@@ -1,0 +1,1 @@
+Exercises about ES6
